@@ -2,5 +2,5 @@ name: hello-world
 image: okteto/node:10
 command: ["bash"]
 forward:
-  - 3000:3000
+  - 3300:3300
   - 9229:9229
